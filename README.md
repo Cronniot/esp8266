@@ -19,9 +19,7 @@ Open Boards Manager from Tools > Board menu and install *esp8266* platform (and 
 
 ## Configure a new device
 
-Download or clone this repository into your local environment and open it from your Arduino IDE.
-
-Go to the `"Information to fill"` line and place the parameters of your device:
+To start adding a new device download or clone this repository into your local environment and open it from your Arduino IDE. Go to the `"Information to fill"` line and place the parameters of your device:
 
 - Wifi name
 - Wifi password
