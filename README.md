@@ -35,6 +35,8 @@ Note that you have an array of digital pins, where each pin is a device output. 
 ```c++
 const pinDevice digitPins[] { {"mydeviceid", 9}, {"otherdeviceid", 10} };
 ```
-![Image of ESP8266](https://cronniot.com/img/nodemcu_pinout.png)
+<p align="center">
+  <img src="https://cronniot.com/img/nodemcu_pinout.png">
+</p>
 
 Once you set the parameters you can compile and upload the firmware to the device. Then you must pair the device with the cronniot service to start using it.
